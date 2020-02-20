@@ -1,18 +1,47 @@
-# Project 3 - *Name of App Here*
+# Twitter - Part II
 
-**Name of your app** is a basic twitter app to read your tweets.
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
+
+For favoriting and retweeting, I got a 400/401 error which means that my account did not have the proper authentification. I went ahead on my computer and liked/retweeted the post and found that the favorite/retweet function worked, however I'll need to gain additional authentification to be able to do it within the app. 
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
-- [ ] User can log in. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
+
+The following **bonus** features are implemented:
+
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 140) (2pts)
+- [ ] User can view their profile in a profile tab. (3pts)
+- [ ] User sees embedded images in tweet if available. (3pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/bew030/twitter-/blob/master/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+# Twitter - Part I
+
+This is a basic twitter app to read your tweets.
+
+Time spent: **4** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User can log in. (1pt)
+- [x] User can log out. (1pt)
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 The following **bonus** features are implemented:
 
@@ -24,4 +53,3 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
